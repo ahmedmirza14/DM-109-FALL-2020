@@ -1,5 +1,5 @@
 
-#DM 109 Fall 2020: Assignment_1#
+#Assignment_1#
 -------------------------------------
 ###PROJECT MEMBERS###
 StdID | Name
